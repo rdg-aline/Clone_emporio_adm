@@ -1,0 +1,21 @@
+.FormLogin{
+    width:100%;
+}
+
+
+.Form {
+    text-align: center;
+    background-image:url("../../components//image/background_login/back_login.png");
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    background-attachment: initial, fixed;
+   background-blend-mode: overlay;
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   font-size: 22px;
+  }
+  
+  

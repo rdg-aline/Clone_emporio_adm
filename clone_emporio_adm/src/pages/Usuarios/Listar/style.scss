@@ -1,0 +1,31 @@
+.usuario{
+    background-color: #fff;
+    padding-top: 24px;
+    padding-bottom: 24px;
+
+    .body_user {
+       
+
+        display: flex;
+        width: 70%;
+        margin-left: 15%;
+        align-items: center;
+        justify-content: space-between;
+
+       
+
+    }
+    
+    .footer_user {
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
+        border-bottom: 1px solid #fc591f;
+        padding-bottom: 24px;
+        
+        p {
+            font-size: 16px;
+          }
+       
+    }
+}

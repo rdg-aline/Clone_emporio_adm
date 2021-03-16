@@ -1,0 +1,23 @@
+.BlocoPrincipal{
+    width:100%;
+     margin-left: 5%;
+}
+
+.bloco{
+     float: left;
+     width: 30%;
+     height: 130px;
+     margin-left: 10%;
+     margin-bottom: 20px;
+     background-color: #e4e6f7;;
+     border-radius: 20px;
+     margin-top: 10px;
+
+     p {
+       
+        font-size: 20px;
+        padding: 8px;
+        text-align: center;
+    }
+  
+}
