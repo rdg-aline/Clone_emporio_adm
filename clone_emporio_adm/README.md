@@ -42,7 +42,7 @@ Você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 
 ## 🧭 Rodando a aplicação 
-#   Backend (servidor)
+- [x] Backend (servidor)
 ```bash
 
 # Clone este repositório
@@ -59,7 +59,7 @@ $ json-server db.json -m ./node_modules/json-server-auth -r routes.json --port 4
 ```
 
 
-#  Frontend 
+- [x] Frontend 
 ```bash
 
 # Clone este repositório
@@ -78,7 +78,7 @@ $ npm  start
 
 ```
 
-#  Seu primeriro acesso:
+- [x]  Seu primeriro acesso:
 
 Em seu primeiro acesso, você deverá escolher um dos usuários abaixo para logar:
 
